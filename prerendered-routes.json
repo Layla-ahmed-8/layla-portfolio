@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/layla-portfolio": {},
+    "/layla-portfolio/about": {},
+    "/layla-portfolio/contact": {},
+    "/layla-portfolio/work": {}
+  }
+}
