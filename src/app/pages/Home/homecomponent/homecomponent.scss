@@ -58,6 +58,10 @@
     border-radius: 30px;
     transition: all 0.3s ease;
   }
+  .btn-gradient {
+    margin-right: 15px; // adjust spacing as you like
+  }
+  
   
   .btn-gradient:hover {
     background: linear-gradient(90deg, #2575fc, #6a11cb);
